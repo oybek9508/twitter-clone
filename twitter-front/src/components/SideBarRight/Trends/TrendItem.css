@@ -1,0 +1,14 @@
+.trend__item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 15px;
+  border-bottom: 1px solid #38444d;
+  cursor: pointer;
+}
+
+.trend__item > span {
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+}

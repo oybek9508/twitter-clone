@@ -1,0 +1,32 @@
+.bookmarks__top {
+  padding: 5px 16px;
+  border-bottom: 0.5px solid rgb(56, 68, 77);
+}
+.bookmarks__top > span:nth-of-type(1) {
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+}
+.bookmarks__top > span:nth-of-type(2) {
+  font-size: 14px;
+  font-weight: 500;
+  color: #8899a6;
+}
+
+.bookmarks__bottom {
+  text-align: center;
+  padding: 42px 21px;
+}
+.bookmarks__bottom > span:nth-of-type(1) {
+  margin-bottom: 11px;
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+}
+.bookmarks__bottom > span:nth-of-type(2) {
+  display: inline-block;
+  margin-bottom: 11px;
+  margin-top: 11px;
+  font-size: 16px;
+  color: #8899a6;
+}

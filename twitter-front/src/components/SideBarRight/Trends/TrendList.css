@@ -1,0 +1,22 @@
+.trend__list {
+  background-color: #192734;
+  border-radius: 15px;
+}
+.trend__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #38444d;
+  padding: 10px 15px;
+}
+
+.trend__header > span {
+  color: white;
+  font-size: 20px;
+  font-weight: 800;
+}
+.trend__footer {
+  padding: 15px;
+  color: #1ea1f2;
+  font-size: 16px;
+}

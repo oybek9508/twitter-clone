@@ -1,0 +1,17 @@
+.mentions {
+  text-align: center;
+  padding: 42px 21px;
+}
+.mentions > span:nth-of-type(1) {
+  margin-bottom: 11px;
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+}
+.mentions > span:nth-of-type(2) {
+  display: inline-block;
+  margin-bottom: 11px;
+  margin-top: 11px;
+  font-size: 16px;
+  color: #8899a6;
+}

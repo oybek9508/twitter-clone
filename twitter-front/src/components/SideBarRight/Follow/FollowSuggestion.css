@@ -1,0 +1,19 @@
+.follow__suggestion {
+  background-color: #192734;
+  margin-top: 20px;
+  border-radius: 15px;
+}
+.follow__header {
+  padding: 15px;
+  border-bottom: 1px solid #38444d;
+}
+.follow__footer {
+  padding: 15px;
+  font-size: 16px;
+  color: #1ea1f2;
+}
+.follow__header > span {
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+}

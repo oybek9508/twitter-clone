@@ -1,0 +1,39 @@
+.follow_item {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #38444d;
+  cursor: pointer;
+}
+.follow_item:hover {
+  background-color: #38444d;
+  opacity: 0.9;
+}
+.follow__left {
+  display: flex;
+  align-items: center;
+}
+.follow_button {
+  border-radius: 25px;
+  border: 1px solid #1ea1f2;
+  background-color: transparent;
+  padding: 3px 15px 5px 15px;
+}
+.follow_button > span {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1ea1f2;
+}
+.followItem__account {
+  margin-left: 10px;
+}
+.followItem__name {
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+}
+.followItem__userName {
+  font-size: 16px;
+  color: #8899a6;
+}

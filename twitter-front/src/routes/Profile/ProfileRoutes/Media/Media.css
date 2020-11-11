@@ -1,0 +1,29 @@
+.media {
+  text-align: center;
+  padding: 42px 21px;
+}
+.media > span:nth-of-type(1) {
+  margin-bottom: 11px;
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+}
+.media > span:nth-of-type(2) {
+  display: inline-block;
+  margin-bottom: 11px;
+  margin-top: 11px;
+  font-size: 16px;
+  color: #8899a6;
+}
+.media > button {
+  width: 210px;
+  height: 42px;
+  font-size: 16px;
+  color: white;
+  font-weight: 700;
+  background-color: rgb(30, 161, 242);
+  border-radius: 25px;
+  border: none;
+  margin-top: 11px;
+  outline-width: 0px;
+}

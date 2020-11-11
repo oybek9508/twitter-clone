@@ -1,0 +1,80 @@
+.sidebarLeft {
+  padding: 4px 10px;
+}
+.sidebar__left {
+  height: 100%;
+}
+.words {
+  font-size: 20px;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Ubuntu, "Helvetica Neue", sans-serif;
+  font-weight: 800;
+  margin-left: 20px;
+}
+
+.side__icons {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px 10px 10px;
+  border-radius: 25px;
+  width: fit-content;
+  cursor: pointer;
+}
+.twitter__icon {
+  border-radius: 50px !important;
+  padding: 10px !important;
+}
+.side__icons:hover {
+  background-color: rgba(29, 161, 242, 0.1);
+}
+.side__icons:hover * {
+  color: #1ea1f2;
+}
+.default__word {
+  color: #1ea1f2;
+}
+.tweet__btn {
+  margin-left: 10px;
+  text-align: center;
+  background-color: #1da1f2;
+  color: white;
+  padding: auto 32px;
+  height: 53px;
+  font-size: 16px;
+  width: 83%;
+  line-height: 53px;
+  border-radius: 25px;
+  font-weight: 700;
+}
+
+.userName {
+  color: white;
+}
+.profile__account {
+  position: sticky;
+  display: flex;
+  flex-direction: row;
+  margin: 75px 15px 0px 10px;
+  margin-bottom: 0px;
+  border-radius: 35px;
+  padding: 10px;
+  align-items: center;
+}
+.profile__account:hover {
+  background-color: rgba(29, 161, 242, 0.1);
+}
+.userName {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.profile__name {
+  font-size: 16px;
+  font-weight: 800;
+}
+.profile__username {
+  color: #8899a6;
+  font-size: 16px;
+}

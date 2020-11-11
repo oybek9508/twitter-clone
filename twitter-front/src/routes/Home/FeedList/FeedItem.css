@@ -1,0 +1,69 @@
+.feed__item {
+  display: flex;
+  padding: 15px 20px;
+  border-bottom: 1px solid #38444d;
+}
+.feed__right__top {
+  display: flex;
+  justify-content: space-between;
+}
+.feed__right__top > div {
+  display: flex;
+}
+.feed__right__bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.feed__right__bottom > div {
+  display: flex;
+  align-items: center;
+}
+.feed__profile__image {
+  margin-right: 10px;
+}
+.feed__name {
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+}
+.feed__username {
+  font-size: 16px;
+  color: #8899a6;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.feed__right__top > div > p {
+  font-size: 16px;
+  color: #8899a6;
+}
+.feed__text {
+  color: white;
+  font-size: 16px;
+}
+.feed__right__bottom > div {
+  color: #8899a6;
+  font-size: 14px;
+}
+.feed__right__bottom > div > span {
+  margin-left: 10px;
+}
+.feed__right__bottom > div:nth-of-type(1):hover * {
+  color: #1ea1f2;
+}
+.feed__right__bottom > div:nth-of-type(2):hover * {
+  color: limegreen;
+}
+.feed__right__bottom > div:nth-of-type(3):hover * {
+  color: #dc143c;
+}
+.feed__right__bottom > div:nth-of-type(4):hover * {
+  color: #1ea1f2;
+}
+.feed__right__middle {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.iframe__embed {
+  height: 100px;
+}

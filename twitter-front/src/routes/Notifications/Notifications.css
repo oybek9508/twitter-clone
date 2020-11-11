@@ -1,0 +1,29 @@
+.notifications__header {
+  padding: 16px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.notifications__header > span {
+  font-size: 20px;
+  font-weight: 800;
+  color: white;
+}
+.notifications__nav {
+  display: flex;
+  align-items: center;
+  border-bottom: 2px solid #38444d;
+}
+.notifications__nav > div {
+  padding: 16px;
+  flex-grow: 1;
+  text-align: center;
+  font-weight: 700;
+}
+.notifications__nav__active {
+  color: rgb(30, 161, 242);
+  border-bottom: 2px solid rgb(30, 161, 242);
+}
+.notifications__nav > div:hover {
+  background-color: #263342;
+}
