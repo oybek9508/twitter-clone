@@ -4,397 +4,202 @@
       "_id": "5fa40bd01f9d2bd8a342c6ee",
       "index": 0,
       "picture": "https://static.politico.com/c0/b2/a9fc15064ee1bfdc2a5175128beb/200409-obama-getty-773.jpg",
-      "age": 33,
       "numOfTweets": "675",
       "numOfComments": "1.2k",
       "numOfLikes": "23k",
       "name": "Barack Obama",
-      "gender": "male",
-      "company": "COMFIRM",
       "email": "valenzuelarodgers@comfirm.com",
-      "phone": "+1 (940) 429-2987",
-      "address": "708 Saratoga Avenue, Tioga, Mississippi, 7307",
       "about": "Pariatur ea reprehenderit ad laborum velit quis. Nulla labore ex exercitation consectetur labore aute elit. Irure tempor est proident velit officia nisi sunt non anim enim. Anim deserunt duis veniam ut sunt ipsum est. Nostrud anim aliquip deserunt cupidatat commodo cupidatat laboris incididunt eiusmod. Cupidatat velit officia culpa amet labore. In ex Lorem commodo velit eu consectetur cupidatat cupidatat ut et labore eu.\r\n",
-      "registered": "2014-11-27T07:02:34 -09:00",
-      "latitude": 73.316588,
-      "longitude": 176.051454,
-      "tags": [
-        "irure",
-        "ipsum",
-        "aliquip",
-        "et",
-        "adipisicing",
-        "mollit",
-        "laboris"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Alisa Gilbert"
-        },
-        {
-          "id": 1,
-          "name": "Addie Case"
-        },
-        {
-          "id": 2,
-          "name": "Erna Kidd"
-        }
-      ]
+      "registered": "2014-11-27T07:02:34 -09:00"
     },
     {
       "_id": "5fa40bd08b82a41a89630668",
       "index": 1,
       "picture": "https://pbs.twimg.com/profile_images/1250415895383506944/EttGxOru_400x400.jpg",
-      "age": 24,
       "numOfTweets": "2.5k",
       "numOfComments": "3k",
       "numOfLikes": "34k",
       "name": "Keyleigh McEnamy",
-      "gender": "male",
-      "company": "COMSTRUCT",
       "email": "harrellneal@comstruct.com",
-      "phone": "+1 (990) 448-2897",
       "address": "593 Brooklyn Avenue, Cotopaxi, Hawaii, 9669",
       "about": "Culpa ea pariatur tempor ullamco cillum. Quis aliquip nulla sunt labore. Labore do consectetur aute officia ea consectetur ex aliquip veniam proident Lorem Lorem excepteur.\r\n",
-      "registered": "2014-05-13T09:55:14 -09:00",
-      "latitude": -85.513149,
-      "longitude": -147.63127,
-      "tags": [
-        "cupidatat",
-        "ad",
-        "laborum",
-        "est",
-        "exercitation",
-        "adipisicing",
-        "ad"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Donna Frazier"
-        },
-        {
-          "id": 1,
-          "name": "Williamson Maldonado"
-        },
-        {
-          "id": 2,
-          "name": "Tracy Dillon"
-        }
-      ]
+      "registered": "2014-05-13T09:55:14 -09:00"
     },
     {
       "_id": "5fa40bd012f8ca63d5b7e55c",
       "index": 2,
       "picture": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_400x400.jpg",
-      "age": 33,
       "numOfTweets": "6k",
       "numOfComments": "2.7k",
       "numOfLikes": "16k",
       "name": "Alexandria Ocasio-Cortez",
-      "gender": "female",
-      "company": "INRT",
       "email": "AOK@inrt.com",
-      "phone": "+1 (894) 483-3060",
       "address": "247 Newkirk Placez, Lithium, Utah, 5235",
       "about": "Amet minim proident culpa occaecat ea in nisi consequat laboris commodo ut laboris. Ipsum ut nisi minim deserunt deserunt id officia proident deserunt est aute mollit. Tempor eiusmod occaecat in velit labore culpa ea laboris. Incididunt nostrud fugiat mollit nisi est tempor Lorem laborum enim laborum aute qui dolore labore. Aute incididunt eiusmod ipsum est nostrud excepteur in ipsum nisi ipsum nostrud enim. Nostrud ex ad sunt minim adipisicing mollit mollit nulla do quis consequat. Magna magna proident incididunt fugiat reprehenderit.\r\n",
-      "registered": "2016-04-10T05:12:57 -09:00",
-      "latitude": -85.615394,
-      "longitude": 102.488734,
-      "tags": [
-        "commodo",
-        "eiusmod",
-        "excepteur",
-        "id",
-        "excepteur",
-        "incididunt",
-        "commodo"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Rena Petersen"
-        },
-        {
-          "id": 1,
-          "name": "Casey Pugh"
-        },
-        {
-          "id": 2,
-          "name": "Elba Benjamin"
-        }
-      ]
+      "registered": "2016-04-10T05:12:57 -09:00"
     },
     {
       "_id": "5fa40bd0459d17ac6bf56de1",
       "index": 3,
       "picture": "https://pbs.twimg.com/profile_images/1239440892664086529/iY0Z83Dr_400x400.jpg",
-      "age": 37,
       "numOfTweets": "1.5k",
       "numOfComments": "5k",
       "numOfLikes": "49k",
       "name": "Bill Clinton",
-      "gender": "female",
-      "company": "EBIDCO",
       "email": "gabrielasnider@ebidco.com",
-      "phone": "+1 (823) 599-2543",
       "address": "166 Stuart Street, Calpine, Federated States Of Micronesia, 8055",
       "about": "Fugiat ut consequat qui id. Adipisicing ex sint ex id irure esse mollit deserunt deserunt occaecat velit nostrud. In est quis tempor Lorem do adipisicing reprehenderit. Fugiat reprehenderit pariatur dolor nostrud est cillum est eu.\r\n",
-      "registered": "2019-12-31T09:58:58 -09:00",
-      "latitude": 5.740635,
-      "longitude": 4.582497,
-      "tags": [
-        "sunt",
-        "mollit",
-        "fugiat",
-        "reprehenderit",
-        "eiusmod",
-        "et",
-        "esse"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Morrow Hurley"
-        },
-        {
-          "id": 1,
-          "name": "Susie Glenn"
-        },
-        {
-          "id": 2,
-          "name": "Hillary Cantu"
-        }
-      ]
+      "registered": "2019-12-31T09:58:58 -09:00"
     },
     {
       "_id": "5fa40bd0cbf4772492d2d5cb",
       "index": 4,
       "picture": "https://pbs.twimg.com/profile_images/489192650474414080/4RxZxsud_400x400.png",
-      "age": 31,
       "numOfTweets": "33k",
       "numOfComments": "2.8k",
       "numOfLikes": "34k",
       "name": "Tesla",
-      "gender": "male",
-      "company": "ESSENSIA",
       "email": "oconnormullins@essensia.com",
-      "phone": "+1 (966) 407-3479",
       "address": "394 Logan Street, Cumminsville, New Hampshire, 8367",
       "about": "Et est incididunt laboris consequat officia aliquip consequat. Nisi occaecat proident tempor voluptate exercitation minim pariatur. Velit proident excepteur in consequat Lorem mollit cillum veniam Lorem aute. Ea eu commodo elit dolore dolore mollit reprehenderit voluptate Lorem incididunt ullamco reprehenderit officia. Fugiat non qui laboris nostrud. Nisi dolor dolor non velit sint dolor est ea amet ipsum elit laborum pariatur nostrud. Sunt magna mollit sint labore tempor non nostrud eu anim eiusmod ullamco Lorem enim.\r\n",
-      "registered": "2020-07-24T07:45:52 -09:00",
-      "latitude": -71.689082,
-      "longitude": 131.510348,
-      "tags": [
-        "pariatur",
-        "consectetur",
-        "consectetur",
-        "nulla",
-        "culpa",
-        "amet",
-        "consequat"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Raymond Gray"
-        },
-        {
-          "id": 1,
-          "name": "Rosales Scott"
-        },
-        {
-          "id": 2,
-          "name": "Jenny Watts"
-        }
-      ]
+      "registered": "2020-07-24T07:45:52 -09:00"
     },
     {
       "_id": "5fa40bd02fff49eb7a5321f5",
       "index": 5,
       "picture": "https://pbs.twimg.com/profile_images/759567656424878080/u0G1Hkk__400x400.jpg",
-      "age": 21,
       "numOfTweets": "5.3k",
       "numOfComments": "3.8k",
       "numOfLikes": "29k",
       "name": "Boona Muhammad",
-      "gender": "male",
-      "company": "PULZE",
       "email": "stewartsantiago@pulze.com",
-      "phone": "+1 (841) 577-2408",
       "address": "157 Farragut Place, Healy, Minnesota, 8133",
       "about": "Ad nostrud laborum elit ipsum aute. Qui sunt irure consectetur cupidatat voluptate sunt ex reprehenderit officia ex aliqua dolore esse magna. In ex ad adipisicing qui duis ad aliquip quis adipisicing sit Lorem. Id mollit occaecat laborum laborum minim ex quis.\r\n",
-      "registered": "2015-12-18T06:39:02 -09:00",
-      "latitude": -16.958557,
-      "longitude": -26.181611,
-      "tags": [
-        "aliqua",
-        "nostrud",
-        "minim",
-        "ut",
-        "laboris",
-        "ullamco",
-        "dolore"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Millie Cain"
-        },
-        {
-          "id": 1,
-          "name": "Ofelia Saunders"
-        },
-        {
-          "id": 2,
-          "name": "Ball Keller"
-        }
-      ]
+      "registered": "2015-12-18T06:39:02 -09:00"
     },
     {
       "_id": "5fa40bd0e6c04071caf379df",
       "index": 6,
       "picture": "https://pbs.twimg.com/profile_images/798463233774350336/KlHqUNgL_400x400.jpg",
-      "age": 35,
       "numOfTweets": "256",
       "numOfComments": "343",
       "numOfLikes": "5.6k",
       "name": "문제인",
-      "gender": "female",
-      "company": "MAGNEATO",
       "email": "irmahart@magneato.com",
-      "phone": "+1 (994) 551-2556",
       "address": "510 Thomas Street, Darrtown, Guam, 4321",
       "about": "Adipisicing mollit amet dolor deserunt voluptate fugiat ea non ipsum do nostrud. Velit cillum ea in mollit. Eiusmod fugiat nulla excepteur ex consequat aute exercitation Lorem. Enim non anim fugiat elit. Deserunt anim quis Lorem magna qui. Fugiat occaecat sint proident occaecat nulla cupidatat in exercitation eiusmod dolor fugiat. Sint amet ea reprehenderit eu anim aliqua nulla Lorem et ad irure.\r\n",
-      "registered": "2017-09-21T11:59:52 -09:00",
-      "latitude": -58.889411,
-      "longitude": 11.376042,
-      "tags": [
-        "fugiat",
-        "quis",
-        "voluptate",
-        "duis",
-        "culpa",
-        "sint",
-        "occaecat"
-      ],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Sawyer Day"
-        },
-        {
-          "id": 1,
-          "name": "Duran Marks"
-        },
-        {
-          "id": 2,
-          "name": "Frederick Davidson"
-        }
-      ]
+      "registered": "2017-09-21T11:59:52 -09:00"
     },
     {
       "_id": "5fa40bd06d8f2767da110d42",
       "index": 7,
       "picture": "https://pbs.twimg.com/profile_images/1322781586513895425/G_stL2vh_400x400.jpg",
-      "age": 30,
       "numOfTweets": "110k",
       "numOfComments": "159k",
       "numOfLikes": "12344k",
       "name": "Khabib, The Eagle",
-      "gender": "male",
-      "company": "TETRATREX",
       "email": "cranegarcia@tetratrex.com",
-      "phone": "+1 (872) 583-2797",
       "address": "938 Elliott Walk, Barrelville, Iowa, 9298",
       "about": "Qui et magna et proident. Ex nostrud cillum laboris proident adipisicing ex occaecat. Cupidatat consequat duis magna consequat enim sit exercitation. Eiusmod ullamco esse mollit reprehenderit.\r\n",
-      "registered": "2016-12-05T10:09:15 -09:00",
-      "latitude": 10.876662,
-      "longitude": 141.854741,
-      "tags": ["eu", "veniam", "aliqua", "quis", "eiusmod", "elit", "commodo"],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Strong Fuentes"
-        },
-        {
-          "id": 1,
-          "name": "Kris Bartlett"
-        },
-        {
-          "id": 2,
-          "name": "Ellis Forbes"
-        }
-      ]
+      "registered": "2016-12-05T10:09:15 -09:00"
     },
     {
       "_id": "5fa40bd0e9fc2f2c06529e42",
       "index": 8,
-      "picture": "https://pbs.twimg.com/profile_images/1243986776672346113/jG94-jYz_400x400.jpg",
-      "age": 30,
+      "picture": "https://pbs.twimg.com/profile_images/722044174799777792/bXaodRhx_400x400.jpg",
       "numOfTweets": "670k",
       "numOfComments": "425k",
       "numOfLikes": "100456k",
       "name": "Justin Tredau",
-      "gender": "female",
-      "company": "CALCULA",
       "email": "sallyhowell@calcula.com",
-      "phone": "+1 (938) 476-3663",
       "address": "131 Ryerson Street, Gasquet, South Carolina, 2202",
       "about": "Fugiat excepteur nulla nisi in proident fugiat. Aliqua fugiat eu qui irure ipsum commodo Lorem occaecat adipisicing non nisi cupidatat. Sunt esse nostrud ea nulla veniam sunt veniam. Sint est laboris consectetur nulla ad. Velit sunt commodo occaecat eu ea elit excepteur laborum anim incididunt. Ullamco sit commodo commodo id id aliquip velit et laborum qui.\r\n",
-      "registered": "2019-07-04T06:15:24 -09:00",
-      "latitude": 2.596091,
-      "longitude": 57.33202,
-      "tags": ["ad", "cillum", "est", "irure", "occaecat", "nostrud", "fugiat"],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Serrano Hubbard"
-        },
-        {
-          "id": 1,
-          "name": "Fowler Hancock"
-        },
-        {
-          "id": 2,
-          "name": "Rosanna Park"
-        }
-      ]
+      "registered": "2019-07-04T06:15:24 -09:00"
     },
     {
       "_id": "5fa40bd07d972323d3dcef2b",
       "index": 9,
       "picture": "https://pbs.twimg.com/profile_images/722044174799777792/bXaodRhx_400x400.jpg",
-      "age": 34,
       "numOfTweets": "345",
       "numOfComments": "126",
       "numOfLikes": "14k",
       "name": "Elithebeth Warren",
-      "gender": "male",
-      "company": "DIGIPRINT",
       "email": "hooverfarmer@digiprint.com",
-      "phone": "+1 (803) 414-3237",
       "address": "705 Halleck Street, Greensburg, Pennsylvania, 5665",
       "about": "Sit ipsum est irure voluptate excepteur aute esse deserunt nulla eu consequat qui. Enim consequat Lorem tempor deserunt nulla eiusmod sunt consequat est. Cupidatat voluptate culpa occaecat laborum qui proident sint cupidatat deserunt duis tempor reprehenderit. Commodo eiusmod id dolor ea velit laborum.\r\n",
-      "registered": "2016-04-03T04:23:03 -09:00",
-      "latitude": 6.871203,
-      "longitude": 2.521206,
-      "tags": ["anim", "et", "in", "quis", "consequat", "labore", "ut"],
-      "friends": [
-        {
-          "id": 0,
-          "name": "Carissa Shepherd"
-        },
-        {
-          "id": 1,
-          "name": "Angel Warner"
-        },
-        {
-          "id": 2,
-          "name": "Rebekah Harmon"
-        }
-      ]
+      "registered": "2016-04-03T04:23:03 -09:00"
+    },
+    {
+      "hello": "",
+      "id": 11
+    },
+    {
+      "hello": "",
+      "id": 12
+    },
+    {
+      "how are you all doing": "",
+      "id": 13
+    },
+    {
+      "are you crazy man": "",
+      "id": 14
+    },
+    {
+      "HELLO": "",
+      "id": 15
+    },
+    {
+      "hello": "",
+      "id": 16
+    },
+    {
+      "hello": "",
+      "id": 17
+    },
+    {
+      "hello": "",
+      "id": 18
+    },
+    {
+      "hello": "",
+      "id": 19
+    },
+    {
+      "hello": "",
+      "id": 20
+    },
+    {
+      "hello": "",
+      "id": 21
+    },
+    {
+      "hello": "",
+      "id": 22
+    },
+    {
+      "hello": "",
+      "id": 23
+    },
+    {
+      "hello": "",
+      "id": 24
+    },
+    {
+      "Hello": "",
+      "id": 25
+    },
+    {
+      "Hello": "",
+      "id": 26
+    },
+    {
+      "Hello": "",
+      "id": 27
+    },
+    {
+      "Hello": "",
+      "id": 28
     }
   ],
   "trends": [
@@ -590,7 +395,6 @@
       "company": "COMFIRM",
       "email": "@omarsuleiman504",
       "phone": "+1 (940) 429-2987",
-      "address": "708 Saratoga Avenue, Tioga, Mississippi, 7307",
       "about": "Pariatur ea reprehenderit ad laborum velit quis. Nulla labore ex exercitation consectetur labore aute elit. Irure tempor est proident velit officia nisi sunt non anim enim. Anim deserunt duis veniam ut sunt ipsum est. Nostrud anim aliquip deserunt cupidatat commodo cupidatat laboris incididunt eiusmod. Cupidatat velit officia culpa amet labore. In ex Lorem commodo velit eu consectetur cupidatat cupidatat ut et labore eu.\r\n",
       "registered": "2014-11-27T07:02:34 -09:00",
       "latitude": 73.316588,
@@ -629,7 +433,6 @@
       "company": "COMFIRM",
       "email": "@YasirQadhi",
       "phone": "+1 (940) 429-2987",
-      "address": "708 Saratoga Avenue, Tioga, Mississippi, 7307",
       "about": "Pariatur ea reprehenderit ad laborum velit quis. Nulla labore ex exercitation consectetur labore aute elit. Irure tempor est proident velit officia nisi sunt non anim enim. Anim deserunt duis veniam ut sunt ipsum est. Nostrud anim aliquip deserunt cupidatat commodo cupidatat laboris incididunt eiusmod. Cupidatat velit officia culpa amet labore. In ex Lorem commodo velit eu consectetur cupidatat cupidatat ut et labore eu.\r\n",
       "registered": "2014-11-27T07:02:34 -09:00",
       "latitude": 73.316588,

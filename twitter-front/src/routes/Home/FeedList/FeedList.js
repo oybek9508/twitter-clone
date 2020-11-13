@@ -7,12 +7,12 @@ import axios from "axios";
 const LOADING = "LOADING";
 const ERROR = "ERROR";
 
-function FeedList() {
+function FeedList({ about }) {
   const [feeds, setFeeds] = useState([]);
   const [state, setState] = useState("");
 
   useEffect(async () => {
-    // setState(LOADING);
+    setState(LOADING);
     try {
       const { data } = await axios.get("/feeds");
       setState("");
@@ -29,7 +29,9 @@ function FeedList() {
       )}
       <div className="feed__list">
         {state !== ERROR &&
-          feeds.map((feed) => <FeedItem feed={feed} key={feed._id} />)}
+          feeds.map((feed) => (
+            <FeedItem feed={feed} key={feed._id} about={about} />
+          ))}
       </div>
     </>
   );

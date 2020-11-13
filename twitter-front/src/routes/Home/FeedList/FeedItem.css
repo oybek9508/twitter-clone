@@ -67,3 +67,31 @@
 .iframe__embed {
   height: 100px;
 }
+.MuiMenu-paper {
+  background-color: #16202b !important;
+  color: white !important;
+  top: 50px;
+  left: -50px;
+}
+.MuiMenuItem-root {
+  font-size: 16px !important;
+  font-weight: 500 !important;
+}
+.MuiMenuItem-root:hover {
+  background-color: #263342 !important;
+}
+.moreIcon__div {
+  position: relative;
+  width: 36px;
+  text-align: center;
+  height: 36px;
+  line-height: 41px;
+  border-radius: 50%;
+  top: -7px;
+}
+.moreIcon__div:hover {
+  background-color: #263342;
+}
+.moreIcon__div:hover * {
+  color: #1ea1f2;
+}

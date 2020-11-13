@@ -16,6 +16,7 @@ function TrendList() {
   const [state, setState] = useState("");
 
   useEffect(async () => {
+    setState(LOADING);
     try {
       const { data } = await axios.get("/trends");
       console.log(data);

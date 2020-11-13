@@ -1,5 +1,6 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import "./Home.css";
+import axios from "axios";
 import { BrowserRouter, Router, Switch } from "react-router-dom";
 import FeedList from "./FeedList/FeedList";
 import StarBorderIcon from "@material-ui/icons/StarBorder";
@@ -11,6 +12,23 @@ import InsertEmoticonIcon from "@material-ui/icons/InsertEmoticon";
 import ScheduleIcon from "@material-ui/icons/Schedule";
 
 function Home() {
+  const [about, setAbout] = useState("");
+
+  const handleChange = (e) => {
+    setAbout(e.target.value);
+  };
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    axios
+      .post("http://localhost:4000/feeds", about)
+      .then(({ data }) => {
+        console.log(data);
+      })
+
+      .catch((error) => {
+        console.log(error.message);
+      });
+  };
   return (
     <div className="twitter__body">
       <div className="body__header">
@@ -25,12 +43,14 @@ function Home() {
           />
         </div>
         <div className="onYourMind__right">
-          <div className="onYourMind__top">
+          <form className="onYourMind__top" onSubmit={handleSubmit}>
             <input
               placeholder="What's happening?"
               className="onYourMind__input"
+              value={about}
+              onChange={handleChange}
             />
-          </div>
+          </form>
           <div className="onYourMind__bottom">
             <div className="onYourMind__icons">
               <div className="icon__div">
@@ -70,7 +90,7 @@ function Home() {
       </div>
       <div className="body__feed">
         <BrowserRouter>
-          <FeedList />
+          <FeedList about={about} />
         </BrowserRouter>
       </div>
     </div>

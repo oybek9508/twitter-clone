@@ -19,7 +19,6 @@ class App extends React.Component {
     userName: [],
     tweet: [],
   };
-
   render() {
     return (
       <BrowserRouter>
