@@ -42,7 +42,7 @@ function TrendList() {
         </div>
         {state !== ERROR &&
           trends.map((trend) => {
-            return <TrendItem trend={trend} key={trend._id} />;
+            return <TrendItem trend={trend} key={trend.id} />;
           })}
         <div className="trend__footer">
           <span>Show more</span>

@@ -12,3 +12,19 @@
   font-size: 16px;
   font-weight: 700;
 }
+
+.moreIcon__trend__div {
+  position: relative;
+  width: 36px;
+  text-align: center;
+  height: 36px;
+  line-height: 52px;
+  border-radius: 50%;
+  top: 1px;
+}
+.moreIcon__trend__div:hover {
+  background-color: #263342;
+}
+.moreIcon__trend__div:hover * {
+  color: #1ea1f2;
+}

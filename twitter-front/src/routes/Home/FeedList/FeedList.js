@@ -30,7 +30,7 @@ function FeedList({ about }) {
       <div className="feed__list">
         {state !== ERROR &&
           feeds.map((feed) => (
-            <FeedItem feed={feed} key={feed._id} about={about} />
+            <FeedItem feed={feed} key={feed.id} about={about} />
           ))}
       </div>
     </>

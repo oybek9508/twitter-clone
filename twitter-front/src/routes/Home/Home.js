@@ -10,6 +10,7 @@ import GifIcon from "@material-ui/icons/Gif";
 import PollIcon from "@material-ui/icons/Poll";
 import InsertEmoticonIcon from "@material-ui/icons/InsertEmoticon";
 import ScheduleIcon from "@material-ui/icons/Schedule";
+import { v4 as uuidv4 } from "uuid";
 
 function Home() {
   const [about, setAbout] = useState("");
@@ -17,16 +18,29 @@ function Home() {
   const handleChange = (e) => {
     setAbout(e.target.value);
   };
+  const newFeed = {
+    id: uuidv4(),
+    index: 0,
+    picture:
+      "https://static.politico.com/c0/b2/a9fc15064ee1bfdc2a5175128beb/200409-obama-getty-773.jpg",
+    numOfTweets: "675",
+    numOfComments: "1.2k",
+    numOfLikes: "23k",
+    name: "Barack Obama",
+    email: "valenzuelarodgers@comfirm.com",
+    about: "Brand new feed is here",
+    registered: "2014-11-27T07:02:34 -09:00",
+  };
   const handleSubmit = (e) => {
+    console.log("submitted");
     e.preventDefault();
     axios
-      .post("http://localhost:4000/feeds", about)
+      .post("http://localhost:4000/feeds", newFeed)
       .then(({ data }) => {
-        console.log(data);
+        console.log("data", data);
       })
-
       .catch((error) => {
-        console.log(error.message);
+        console.error("error", error);
       });
   };
   return (
@@ -54,9 +68,16 @@ function Home() {
           <div className="onYourMind__bottom">
             <div className="onYourMind__icons">
               <div className="icon__div">
-                <ImageIcon
-                  className="mind__icons"
-                  style={{ weight: "24px", height: "24px" }}
+                <label htmlFor="input-file">
+                  <ImageIcon
+                    className="mind__icons"
+                    style={{ weight: "24px", height: "24px" }}
+                  />
+                </label>
+                <input
+                  type="file"
+                  id="input-file"
+                  style={{ display: "none" }}
                 />
               </div>
               <div className="icon__div">

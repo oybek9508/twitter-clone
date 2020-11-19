@@ -29,7 +29,7 @@ function FollowSuggestion() {
       )}
       <>
         {follows.map((follow) => {
-          return <FollowItem key={follow._id} follow={follow} />;
+          return <FollowItem key={follow.id} follow={follow} />;
         })}
       </>
       <div className="follow__footer">
